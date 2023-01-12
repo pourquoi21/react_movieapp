@@ -1,6 +1,6 @@
 # react_movieapp
 
-### View site: https://pourquoi21.github.io/react_movieapp/
+### [View site](https://pourquoi21.github.io/react_movieapp/)
 
 ### Introduction
 A simple movie app made by React. Made using yts api.
